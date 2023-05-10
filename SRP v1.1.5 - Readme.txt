@@ -1,6 +1,6 @@
 ------------------------------------
 
-Sky Reclamation Project (SRP) v1.1.4
+Sky Reclamation Project (SRP) v1.1.5
 
 ------------------------------------
 
@@ -24,7 +24,7 @@ Is a new game required?
 ====================================
 
 
-Yes, unless you are upgrading from SRP v1.1.3. This SRP release is compatible only with savegames created with SRP v1.1.3 or above.
+Yes.
 
 
 ====================================
